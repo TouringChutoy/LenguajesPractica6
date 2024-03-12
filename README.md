@@ -18,3 +18,7 @@ Estamos haciendo una composición de 6 imagenes para que juntando esas 6 imagene
 Nombre del profesor: Hector Guerrero
 
 Estamos realizando un juego narrativo utilizando como herramienta principal Twine, aunque el profesor nos da libertad completa con los temas del juego o en donde hacerlo, nos dio Twine como un metodo pero podemos programarlo o hacerlo en otra plataforma si asi lo deseamos.
+## Proyecto de App
+Nombre del profesor: Sebastian Meja
+
+Estamos viendo como es que funciona una base de datos, como es que se crean desde cero, incluso desde la lluvia de ideas para el producto aterrizarlo en hoja y papel y de ahi pasarlo a Diagramas de Casos de Uso y de Entidad-Relación y por ultimo a hacer mapas conceptuales sobre el producto y las acciones a realizar.
