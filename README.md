@@ -22,3 +22,7 @@ Estamos realizando un juego narrativo utilizando como herramienta principal Twin
 Nombre del profesor: Sebastian Meja
 
 Estamos viendo como es que funciona una base de datos, como es que se crean desde cero, incluso desde la lluvia de ideas para el producto aterrizarlo en hoja y papel y de ahi pasarlo a Diagramas de Casos de Uso y de Entidad-Relación y por ultimo a hacer mapas conceptuales sobre el producto y las acciones a realizar.
+
+Creando versión 1.0.0 de este repositorio.
+
+Creando versión 1.1.0 de este repositorio.
