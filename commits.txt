@@ -1,0 +1,69 @@
+commit 27ce021d94e2bde73e6fb14258cec8795fc72399
+Merge: 7685fbc e0cacfa
+Author: Diego Ramirez <diegoadrian_rmz@hotmail.com>
+Date:   Tue Mar 12 11:14:45 2024 -0600
+
+    Fusionando Proyecto de app en main
+
+commit 7685fbc50bbb0b2add5c12f182fcf1123dc545e4
+Merge: f484979 dc95de9
+Author: Diego Ramirez <diegoadrian_rmz@hotmail.com>
+Date:   Tue Mar 12 11:13:54 2024 -0600
+
+    Fusionando Diseño de Videojuegos en main
+
+commit f484979d367edd302e0d4cd3136b555f1785baf7
+Merge: e5f3be2 a89ce42
+Author: Diego Ramirez <diegoadrian_rmz@hotmail.com>
+Date:   Tue Mar 12 11:11:17 2024 -0600
+
+    Fusionando Principios de Composición y Diseño en main
+
+commit e5f3be2317dc7c903c6077d5bf0a9b2e16e48a60
+Author: Diego Ramirez <diegoadrian_rmz@hotmail.com>
+Date:   Tue Mar 12 11:05:50 2024 -0600
+
+    Arreglando orden de texto de lenguajes interpretados
+
+commit 955735804082d3c8ba2bbc0ef6330babf6e9e4d8
+Merge: 8d65ff9 1ac1a5e
+Author: Diego Ramirez <diegoadrian_rmz@hotmail.com>
+Date:   Tue Mar 12 11:04:47 2024 -0600
+
+    Fusionando lenguajes interpretados y sistemas operativos en main
+
+commit e0cacfa5bdb83bb33c725b2e716d2d4976139449
+Author: Diego Ramirez <diegoadrian_rmz@hotmail.com>
+Date:   Tue Mar 12 10:55:48 2024 -0600
+
+    Agregando materia de Proyecto de App
+
+commit dc95de96dc356d91069f773dff0e738c0e39fa11
+Author: Diego Ramirez <diegoadrian_rmz@hotmail.com>
+Date:   Tue Mar 12 10:51:10 2024 -0600
+
+    Agregando materia de Diseño de Videojuegos
+
+commit a89ce42be29bb86fe1de7c8298393c511a771630
+Author: Diego Ramirez <diegoadrian_rmz@hotmail.com>
+Date:   Tue Mar 12 10:46:19 2024 -0600
+
+    Agregando materia de principios de composicion y diseño
+
+commit 1ac1a5e904abba537f39cfbf55d7056d6af3d172
+Author: Diego Ramirez <diegoadrian_rmz@hotmail.com>
+Date:   Tue Mar 12 10:40:34 2024 -0600
+
+    Agregando materia de sistemas operativos
+
+commit 8d65ff926fd73af89e6c279f77e16554e78452a8
+Author: Diego Ramirez <diegoadrian_rmz@hotmail.com>
+Date:   Tue Mar 12 10:35:03 2024 -0600
+
+    Agregando materia de lenguajes interpretados
+
+commit 4de2b434ec2f4c462e298c6106de46350d9ef43a
+Author: Diego Ramirez <diegoadrian_rmz@hotmail.com>
+Date:   Tue Mar 12 10:29:25 2024 -0600
+
+    Primer commit
